@@ -5,5 +5,7 @@ import javax.sound.midi.Soundbank;
 public class AllGood {
     public static void main(String[] args) {
         System.out.println("I Hope Everything Is Good");
+
+        //will see you in Github
     }
 }

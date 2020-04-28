@@ -1,7 +1,7 @@
 package day01;
 
-public class Login {
+public class addCommand {
     public static void main(String[] args) {
-        System.out.println("Java");
+
     }
 }
